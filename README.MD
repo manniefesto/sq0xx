@@ -14,4 +14,4 @@ The PCB has had some fixes but not many.
 * Raspberry pico micro controller.
 
 ## Firmware
-Big shout out to Arte for writing some awesome software, [pico-rectangle] (https://github.com/JulienBernard3383279/pico-rectangle)
+Big shout out to Arte for writing some awesome software, [pico-rectangle](https://github.com/JulienBernard3383279/pico-rectangle)
