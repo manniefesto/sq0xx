@@ -1,5 +1,7 @@
 # Sq0xx
 
+![alt text](media/sq0xx.jpg "Image of sq0xx")
+
 Squat b0xx.
 
 I've printed and tested V1, there are some fixes in the V2 case files that are untested but should work just fine.
